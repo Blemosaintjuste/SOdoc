@@ -1,0 +1,27 @@
+1. Descubra para que servem os comandos abaixo e liste suas opções de uso mais comuns.
+Exemplo: 
+* ls
+função: serve para listar os arquivos do diretório corrente
+uso mais comum: $ ls -la, que lista todos os arquivos do diretório corrente, incluindo arquivos
+ocultos, se houver, no formato de lista.
+a) cal
+b) date
+c) clear
+d) exit
+e) uname
+
+2. Usando o comando adequado:
+a) descubra qual o seu diretório corrente ao logar em um terminal Linux
+b) Navegue até a pasta /home
+c) liste todos os arquivos da pasta /home
+d) navegue até a pasta /bin
+e) certifique-se de qual diretório você se encontra
+f) a partir do diretório corrente, liste o conteúdo da pasta /etc
+g) agora liste os arquivos da pasta corrente
+h) volte ao diretório home
+i) crie uma pasta com o seu nome
+j) crie um arquivo texto dentro da pasta que você criou com o seu nome
+k) copie este arquivo para a pasta /home.
+l) renomeie o arquivo criado na pasta home
+m) mova este arquivo que está na pasta que você criou com o seu nome para a pasta home
+n) exclua o diretório que você criou com o seu nome
